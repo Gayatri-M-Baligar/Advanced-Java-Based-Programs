@@ -21,4 +21,6 @@ ColorSort : [Write a java program for getting different colors through ArrayList
 using Collections.sort( ArrayListObj)]
 solution -> (https://github.com/Gayatri-M-Baligar/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%20(239).png)
 
-ColorSubList : []
+ColorSubList : [Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()]
+solution -> ()
