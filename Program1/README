@@ -31,7 +31,9 @@ element from the ArrayList object by using remove by index]
 solution -> (https://github.com/Gayatri-M-Baligar/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%20(241).png)
 
 
-LinkedListIteratorFromSecond : []
+LinkedListIteratorFromSecond : [Write a Java program to iterate through all elements in a linked list starting at the
+specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))]
+solution -> ()
 
 
 
