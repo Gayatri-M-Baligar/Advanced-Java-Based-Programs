@@ -41,7 +41,9 @@ objlist.descendingIterator())]
 Solution -> (https://github.com/Gayatri-M-Baligar/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%20(243).png) 
 
 
-
+LinkedListInsertEnd : [Write a Java program to insert the specified element at the end of a linked list.( using
+l_listobj.offerLast("Pink"))]
+solution -> ()
 
 
 
