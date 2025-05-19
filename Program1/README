@@ -36,7 +36,8 @@ specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj
 solution -> (https://github.com/Gayatri-M-Baligar/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%20(242).png)
 
 
-
+[Write a Java program to iterate a linked list in reverse order (using
+objlist.descendingIterator())]
 
 
 
