@@ -5,3 +5,8 @@ Searching, Substring Operations , String Modification, Whitespace Handling, Stri
 Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
 contains( ) and startsWith() and endsWith()]
 solution -> (https://github.com/Gayatri-M-Baligar/Advanced-Java-Based-Programs/blob/main/StringOperations/Screenshot%20(248).png)
+
+StringAppendPerformanceTest : [Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
+appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
+your answer which one is better.]
+solution -> ()
