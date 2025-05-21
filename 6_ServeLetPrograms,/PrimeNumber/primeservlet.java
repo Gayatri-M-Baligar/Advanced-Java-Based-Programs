@@ -1,3 +1,6 @@
+/*Build a servlet program to check the given number is prime number or not using HTML with step
+by step procedure.*/
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
