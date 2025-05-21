@@ -22,4 +22,27 @@ WhiteSpaceRemover :
 solution -> ()
 
 
+CapitalizeWords :
+solution -> ()
+
+
+StringTruncator :
+solution -> ()
+
+
+NumericValidator :
+solution -> ()
+
+
+RandomStringGenerator :
+solution -> ()
+
+
+WordCounter :
+solution -> ()
+
+
+
+
+
 
