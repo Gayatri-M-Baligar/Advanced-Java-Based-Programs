@@ -1,11 +1,11 @@
+/*Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()*/
+
 package lab_1;
 import java.util.ArrayList;
 import java.util.List;
 public class ColorSubList {
-	
-	
-
-		public static void main(String[] args) {
+	   public static void main(String[] args) {
 	        // Create an ArrayList of colors
 	        ArrayList<String> colors = new ArrayList<>();
 
