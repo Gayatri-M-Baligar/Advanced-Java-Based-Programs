@@ -1,6 +1,3 @@
-/*Read all the existing records from the table coffee which is from the database test and insert a
-new coffee product into it.*/
-
 <%@ page import="java.sql.*" %>
 <!DOCTYPE html>
 <html>
