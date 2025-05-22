@@ -31,6 +31,8 @@ Basic : 20000
 Grand Salary : 45000
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
+
+
 <%@ page import="java.sql.*" %>
 <%
     String empnoStr = request.getParameter("empno");
