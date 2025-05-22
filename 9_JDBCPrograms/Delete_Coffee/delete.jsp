@@ -2,7 +2,6 @@
 an existing coffee product from the table with its id.*/
 
 
-
 <%@ page import="java.sql.*" %>
 <%
     String idStr = request.getParameter("id");
